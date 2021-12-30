@@ -9,6 +9,11 @@ https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
 Foi criada uma pequena REST Ful API JSON para deixar mais otimizado.
 Foi utilizado o puppeteer para a resolução do case.
 
+## Instruções:
+A API funciona em localhost:8080/nomeDaMarca acessando esse endereço e substituindo "nomeDaMarca"
+por uma marca de notebook é possível obter as informações desejadas da marca. Ordenadas por produto mais caro
+para produto menos caro.
+
 ### Informações Coletadas pelo bot:
 - name
 - url
