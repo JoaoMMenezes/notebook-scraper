@@ -17,6 +17,7 @@ para o produto mais caro.
 ### Informações Coletadas pelo bot:
 - name
 - url
+- image_url
 - description
 - price
 - numbersOfReviews
