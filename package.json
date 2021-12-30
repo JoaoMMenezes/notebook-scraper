@@ -1,0 +1,17 @@
+{
+  "name": "devlonogy-test-bot",
+  "version": "1.0.0",
+  "description": "Acessar o site do webscraper.io e pegar os dados dos notebooks Lenovo ordenando do mais barato para o mais caro.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "puppeteer": "^13.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
