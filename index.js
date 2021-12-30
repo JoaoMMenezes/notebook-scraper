@@ -28,6 +28,7 @@ app.get('/:brand',  (req, response) => {
                 return {
                     name: iten.children.item(1).children.item(1).children.item(0).title,
                     url: iten.children.item(1).children.item(1).children.item(0).href,
+                    image_url: iten.children.item(0).src,
                     description: iten.children.item(1).children.item(2).innerText,
                     price: iten.children.item(1).children.item(0).innerText,
                     numbersOfReviews: iten.children.item(2).children.item(0).innerText,
