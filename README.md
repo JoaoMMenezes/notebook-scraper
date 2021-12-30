@@ -14,6 +14,9 @@ A API funciona em localhost:8080/nomeDaMarca acessando essa rota e substituindo 
 por uma marca de notebook é possível obter as informações desejadas dos produtos de tal marca, ordenadas por produto mais barato
 para o produto mais caro.
 
+### Execução:
+Após baixar o puppeteer e o express, entrar no arquivo index.js e usar o comando "node ." para rodar o servidor.
+
 ### Informações Coletadas pelo bot:
 - name
 - url
