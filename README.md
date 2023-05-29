@@ -5,9 +5,9 @@ link do site:
 https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
 
 ## Observações:
-É interessante que o robô possa ser consumido por outros serviços.
-Foi criada uma pequena REST Ful API JSON para deixar mais otimizado.
-Foi utilizado o puppeteer para a resolução do case.
+- É interessante que o robô possa ser consumido por outros serviços. 
+- Foi criada uma pequena REST Ful API JSON para deixar mais otimizado.
+- Foi utilizado o puppeteer para a resolução do case.
 
 ## Instruções:
 A API funciona em localhost:8080/nomeDaMarca acessando essa rota e substituindo "nomeDaMarca"
